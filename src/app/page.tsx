@@ -1,5 +1,5 @@
 "use client";
-//@ts-expect-error
+//@ts-expect-error - AOS has no types , ignore TS error for import 
 import AOS from 'aos';
 import Navbar from "./Navbar";
 import Hero from "./Hero";
